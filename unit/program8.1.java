@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-	public class prg08_1{
+	public class program8.1{
 		
 		public static void main(String []args){
 			
