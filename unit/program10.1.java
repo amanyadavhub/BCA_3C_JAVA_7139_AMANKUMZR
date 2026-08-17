@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class prg10_1{
+public class program10.1{
 	public static void main(String[] args){
 		
 		int arr[] = new int[5];
