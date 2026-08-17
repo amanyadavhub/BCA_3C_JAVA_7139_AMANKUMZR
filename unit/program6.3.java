@@ -1,6 +1,6 @@
 // 6_3  loop3
 
-public class prg06_3{
+public class program6.3{
 	public static void main(String [] args){
 		
 		int i=0;{
